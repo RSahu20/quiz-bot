@@ -1,5 +1,6 @@
 
-BOT_WELCOME_MESSAGE = "Hello, I'm Quizbot. I'll asking you a few questions to assess your python programming skils."
+BOT_WELCOME_MESSAGE = "Hello, I'm Quizbot. I'll asking you a few questions to assess your python programming skils.Please answer by typing the number of your choice."
+
 
 PYTHON_QUESTION_LIST = [
     {
